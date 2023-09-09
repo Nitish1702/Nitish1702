@@ -1,7 +1,9 @@
 # 💫 About Me:
-🔭 I'm currently working on Web Development.<br>🌱 I'm currently learning ReactJS<br>
-
-
+👋 Hi, I’m @Nitish1702, a technology enthusiast pursuing my graduation from SRM University.
+👀 I’m interested in Flutter and Web Development.
+🌱 I’m currently learning Machine Learning.
+💞️ I’m looking to collaborate on any Software Dev related project.
+📫 How to reach me: ✉ Email: nrk1722@gmail.com
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nitishk_1107) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nitishkumar17/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@nrk1722) 
 
