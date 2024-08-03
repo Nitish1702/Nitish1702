@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Nitish1702, a technology enthusiast pursuing my graduation from SRM University.
+👋 Hi, I’m @Nitish1702, a technology enthusiast completed my graduation from SRM University.
 
 👀 I’m interested in Flutter and Web Development.
 
